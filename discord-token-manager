@@ -1,0 +1,7 @@
+
+manager = DiscordTokenManager()
+await manager.add_token("MTM3MDI2MTg0MDIzOTc4ODA0Mg.Gj7ysL.cTuVEjMi06Pe4aKgp4HB5KSSJamLWLX4mEbsSc")
+
+await manager.add_token("")
+await manager.add_token("")
+await manager.add_token("")
